@@ -14,7 +14,7 @@ int main(){
 
     printf("Enter the rate: ");
     scanf("%f",&Rate);
-
+printf("Enter the Time: ");
     scanf("%f",&Time);
 
     printf("Enter the number of times the interest is compunded: ");
